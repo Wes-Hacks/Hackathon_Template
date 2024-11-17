@@ -4,20 +4,7 @@ To use, just click `download` -> `download as zip` and extract it.
 
 You can use AI fully to turn your text to markdown
 
-Here is more info on how to write in markdown.
-
-| Syntax | Description |
-| ----------- | ----------- |
-|Heading	|# H1 ## H2 ### H3 |
-|Bold	|**bold text** |
-|Italic	|*italicized text* |
-|Blockquote	| > blockquote |
-|Ordered List (With a new line between each) |	1. First item 2.  Second item 3. Third item |
-|Unordered List	(With a new line between each) | - First item - Second item - Third item |
-|Code	|`code` or for block of code ```block of code which can take newline``` |
-|Horizontal Line |	--- |
-|Link (You can link to files in the project) | [title](https://www.example.com) |
-|Image (You can link to files in the project) | ![alt text](image.jpg) |
+Here is more info on how to write in markdown -> https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet.
 
 ---
 
