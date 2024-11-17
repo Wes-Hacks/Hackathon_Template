@@ -19,6 +19,18 @@ Here is more info on how to write in markdown.
 |Link (You can link to files in the project) | [title](https://www.example.com) |
 |Image (You can link to files in the project) | ![alt text](image.jpg) |
 
+---
+
+## Important
+
+After you complete the code, You agree to give the made code to the organisers afterwards.
+
+It must be in a folder with your team name on it and your ID + the words `Project_Junior/Senior` depending if your a Junior or Senior.
+
+Example `TEAM-NAME_###_Project_Junior/Senior`
+
+---
+
 <!--
 Uncomment this, and delete the rest above this, use this as the actual template
 
